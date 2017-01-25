@@ -1,5 +1,7 @@
-municipios
-===================
+# municipios [DEPRECATED]
+**Usa [es-atlas](https://github.com/martgnz/es-atlas) para tener en el mismo archivo todas las regiones administrativas y construir tu propio TopoJSON con un script.**
+
+## Descripción
 
 TopoJSON con los municipios de España.
 `municipios-simplified` simplificado con [MapShaper](http://mapshaper.org) al 16%.
