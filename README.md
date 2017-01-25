@@ -1,5 +1,5 @@
 # municipios [DEPRECATED]
-**Usa [es-atlas](https://github.com/martgnz/es-atlas) para tener en el mismo archivo todas las regiones administrativas y construir tu propio TopoJSON con un script.**
+Usa **[es-atlas](https://github.com/martgnz/es-atlas)** para tener en el mismo archivo todas las regiones administrativas y construir tu propio TopoJSON.
 
 ## Descripción
 
